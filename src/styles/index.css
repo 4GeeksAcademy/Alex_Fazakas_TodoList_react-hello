@@ -1,6 +1,13 @@
 
 /* styles.css */
-
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://melpom.com/cdn/shop/products/libretas-libreta-notas-originales-papeleria-melpom_1024x.jpg?v=1657265774');
+  background-size: cover; /* Ensures the background image covers the entire viewport */
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif;
+}
 /* Container styles */
 .container {
     max-width: 400px;
